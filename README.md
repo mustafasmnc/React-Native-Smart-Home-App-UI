@@ -1,6 +1,6 @@
 # Screenshots of App
 
-# #Dashboard Screen
+## Dashboard Screen
 ![DashboardImg](https://user-images.githubusercontent.com/18119037/60370436-4ed80180-99ff-11e9-926d-105165aa60e4.png)
 
 ## Settings Screen
